@@ -1,2 +1,2 @@
-# Tutorial
-各类教程
+# Document
+学习笔记和各类教程
